@@ -1,7 +1,9 @@
-Statoshi: Bitcoin Core + statistics logging
+-------------------------
+### Run statoshi-Google-Colab
 
-What is Statoshi?
-----------------
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
 
 Statoshi's objective is to protect Bitcoin by bringing transparency to the activity
 occurring on the node network. By making this data available, Bitcoin developers can
