@@ -36,3 +36,10 @@ A system metrics daemon is available [here](https://github.com/jlopp/bitcoin-uti
 Statoshi also supports running multiple nodes that emit metrics to a single graphite instance.
 In order to facilitate this, you can add a line to bitcoin.conf that will partition each
 metric by the name of the host: statshostname=yourNodeName
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
